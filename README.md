@@ -18,6 +18,6 @@ fullstackflores v-14 NPM START
 
  
 
-Rodar o servidos para puxar os produtos Node Js:
+Rodar o servidor para puxar os produtos Node Js:
 
 fullstackflores v-14/backend NPM START
